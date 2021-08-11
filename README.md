@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://github.com/sudarsankumar/social-media-toggler">Social media dashboard with theme switcher</a>
-- Live Site URL: <a href="https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master">Social media dashboard with theme switcher</a>
+- Live Site URL: <a href="https://social-media-dashboard-with-theme-toggler.netlify.app">Social media dashboard with theme switcher</a>
 
 ## My process
 
